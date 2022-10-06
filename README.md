@@ -9,8 +9,8 @@
  <div style="display:flex">
  <div align="center">
   <a href="https://github.com/rafa-29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Rafa-29=anuraghazra&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmina118&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-29&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
   </div> 
